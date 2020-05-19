@@ -1,18 +1,21 @@
-Deadline	Event	Type	Event start date	Event end date	Event location	Notes
-2017-03-30	ACL	Notification of acceptance	2017-07-31	2017-08-02	Vancouver, Canada	http://acl2017.org
-2017-04-14	EMNLP	Long/short paper submission	2017-09-09	2017-09-11	Copenhagen, Denmark	http://emnlp2017.net
-2017-04-21	NMT workshop	Long/short paper submission	2017-08-04	2017-08-04	Vancouver, Canada	https://sites.google.com/site/acl17nmt
-2017-04-21	ACL-SRW	Short paper submission	2017-08-03	2017-08-04	Vancouver, Canada	https://sites.google.com/site/aclsrw2017
-2017-04-21	LaTeCH-CLfL	Long/short paper submission	2017-08-03	2017-08-04	Vancouver, Canada	https://sighum.wordpress.com/events/latech-clfl-2017
-2017-04-21	TextGraphs	Long/short paper submission	2017-08-03	2017-08-03	Vancouver, Canada	https://sites.google.com/site/textgraphs2017/home
-2017-04-21	RepL4NLP	Long/short paper submission	2017-08-03	2017-08-03	Vancouver, Canada	https://sites.google.com/site/repl4nlp2017
-2017-04-23	CoNLL	Long paper submission	2017-08-03	2017-08-04	Vancouver, Canada	http://www.conll.org/cfp-2017
-2017-05-08	WMT	Shared task data submission	2017-09-07	2017-09-08	Copenhagen, Denmark	http://www.statmt.org/wmt17
-2017-05-12	ACL-SRW	Notification of acceptance	2017-08-03	2017-08-04	Vancouver, Canada	https://sites.google.com/site/aclsrw2017
-2017-05-26	EAMT	Long/short paper submission	2017-05-28	2017-05-31	Prague, Czech Republic	https://ufal.mff.cuni.cz/eamt2017
-2017-05-26	LaTeCH-CLfL	Notification of acceptance	2017-08-03	2017-08-04	Vancouver, Canada	https://sighum.wordpress.com/events/latech-clfl-2017
-2017-06-09	WMT	Research paper submission	2017-09-07	2017-09-08	Copenhagen, Denmark	http://www.statmt.org/wmt17
-2017-06-30	EMNLP	Notification of acceptance	2017-09-09	2017-09-11	Copenhagen, Denmark	http://emnlp2017.net
-2017-07-07	IJCNLP	Long/short paper submission	2017-11-27	2017-12-01	Taipei, Taiwan	http://ijcnlp2017.org
-2017-08-07	IJCNLP	Demonstrations submission	2017-11-27	2017-12-01	Taipei, Taiwan	http://ijcnlp2017.org
-2017-09-25	LREC	Paper submission	2018-05-09	2018-05-12	Miyazaki, Japan	http://www.lrec-conf.org/lrec2018/lrec2018-cfp.htm
+Deadline	Event type	Event	Submission type	Event start date	Event end date	Event location	Notes
+2020-06-01	Conference	EMNLP	Long/short paper submission	2020-11-16	2020-11-18	Online	https://2020.emnlp.org/
+2020-06-26	Conference	AACL-IJCNLP	Long/short paper submission	2020-12-04	2020-12-07	Suzhou, China	http://aacl2020.org/
+2020-07-01	Conference	COLING	Long/short paper submission	2020-12-08	2020-12-11	Barcelona, Spain	https://coling2020.org/
+2020-07-01	System Demo	COLING	System demo paper	2020-12-08	2020-12-11	Barcelona, Spain	https://coling2020.org/
+2020-07-01	Conference	AMTA	Long/short paper submission	2020-10-06	2020-10-10	Online	https://amtaweb.org/amta-2020-updated-call-for-papers-presentations-workshops-and-tutorials/
+2020-07-01	Workshop	NLPOSS	Long/short paper submission	2020-11-19	2020-11-20	Online	https://nlposs.github.io/2020/
+2020-06-01	System Demo	EMNLP	System demo paper	2020-11-16	2020-11-18	Online	https://2020.emnlp.org/call-for-papers/demos
+2020-07-17	Workshop	CoNLL	Paper submission	2020-11-19	2020-11-20	Online	https://www.conll.org/
+2020-08-10	Workshop	DMR	Paper submission	2020-12-13	2020-12-13	Barcelona, Spain	https://www.cs.brandeis.edu/~clp/dmr2020/
+2020-08-15	Conference	WMT	Paper submission	2020-11-19	2020-11-20	Online	http://www.statmt.org/wmt20/
+2020-08-15	Workshop	SIGTYP	Paper submission	2020-11-19	2020-11-20	Online	https://sigtyp.github.io/sigtyp-cfp2020.html
+2020-08-15	Workshop	Black Box NLP	Paper submission	2020-11-20	2020-11-20	Online	https://blackboxnlp.github.io/
+2020-08-15	Workshop	VarDial	Paper submission	2020-12-13	2020-12-13	Barcelona, Spain	https://sites.google.com/view/vardial2020/home
+2020-09-25	Workshop	LaTeCH-CLfL	Paper submission	2020-12-12	2020-12-12	Barcelona, Spain	https://sighum.wordpress.com/events/latech-clfl-2020/call-for-papers/
+	Workshop	SPLNLP		2020-11-19	2020-11-20	Online	http://structuredprediction.github.io/
+	Workshop	NLP4P		2020-11-19	2020-11-20	Online	https://sites.google.com/view/nlp4positiveimpact2020
+	Workshop	MSR		2020-12-04	2020-12-07	Suzhou, China	http://taln.upf.edu/pages/msr2019-ws/
+	Workshop	LoResMT		2020-12-04	2020-12-07	Suzhou, China	https://sites.google.com/view/loresmt/
+	Workshop	KNLP		2020-12-04	2020-12-07	Suzhou, China	https://sites.google.com/view/knlp/
+	Workshop	NLPTEA		2020-12-04	2020-12-07	Suzhou, China	http://www.nlptea.org/
